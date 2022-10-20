@@ -1,0 +1,15 @@
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/bin/Debug/net6.0/CMartinezResPckr#9
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/bin/Debug/net6.0/CMartinezResPckr#9.deps.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/bin/Debug/net6.0/CMartinezResPckr#9.runtimeconfig.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/bin/Debug/net6.0/CMartinezResPckr#9.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/bin/Debug/net6.0/CMartinezResPckr#9.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.csproj.AssemblyReference.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.AssemblyInfoInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.AssemblyInfo.cs
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.csproj.CoreCompileInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/refint/CMartinezResPckr#9.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/CMartinezResPckr#9.genruntimeconfig.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezResPckr#9/obj/Debug/net6.0/ref/CMartinezResPckr#9.dll
